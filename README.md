@@ -3,6 +3,7 @@
 ## Project Overview
 This repository contains the data analysis work conducted for Social Buzz, a prominent client in the social media industry, as part of a strategic initiative at Accenture. The goal was to identify the top 5 content categories by popularity, aiding the client's IPO readiness and content strategy.
 
+[![Project Screenshot](https://github.com/danartech/Social-Buzz-Data-Analysis-Project/blob/main/Social%20Buzz%20Screenshot.png)](https://github.com/danartech/Social-Buzz-Data-Analysis-Project/blob/main/Social%20Buzz%20Screenshot.png)
 ## Objectives
 - **Data Analysis and Visualization**: Analyze content categories to highlight the top 5 based on popularity.
 - **Data Cleaning and Preparation**: Ensure data accuracy and relevance by cleaning and preparing datasets.
@@ -22,3 +23,5 @@ The analysis provided actionable insights into popular content categories, suppo
 - Visualizations and reports were compiled and presented using Accenture's proprietary tools.
 
 For more details on the methodologies and analysis, refer to the Excel files in this repository.
+
+[Download the Excel file for this project](https://github.com/danartech/Social-Buzz-Data-Analysis-Project/blob/main/Social_Buzz_Data_Analysis_Final%20Results.xlsx)
